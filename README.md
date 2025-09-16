@@ -1,2 +1,2 @@
 # hello-git
-initialiser git
+this is git
